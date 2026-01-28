@@ -84,7 +84,6 @@ body {
     background-size: cover;
     background-position: center;
     position: relative;
-    height: 500px; /* Ou a altura que você já estiver usando */
     background-size: contain; /* Faz a imagem inteira aparecer sem cortar */
     background-position: center top; /* Centraliza e foca no topo/rosto */
     background-repeat: no-repeat;
